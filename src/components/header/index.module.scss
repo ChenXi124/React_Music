@@ -1,0 +1,38 @@
+
+
+//  {/*头部：推荐，排行榜，歌单，主播电台，歌手，新碟上架*/}
+.musicTop{
+  margin-right: -50px;
+  margin-left: -50px;
+  width: 100vw;
+  background-color:red;
+  display: flex;
+  color: white;
+
+.music_top{
+margin-left: 20%;
+height: 40px;
+
+.musicTitle{
+  margin-top: 5px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  border-radius: 10px;
+  a:link{
+    background: transparent;
+  }
+  a:visited, a:hover {
+    width:100px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    background: #9B0909;
+  }
+
+
+}
+}
+}
